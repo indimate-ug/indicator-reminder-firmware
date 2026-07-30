@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "latest_by_model": {
+    "VG2": "VG2-1.0.0-15.10.25"
+  },
+  "releases": [
+    {
+      "model": "VG2",
+      "firmware_code": "VG2-1.0.0-15.10.25",
+      "build_rank": 100,
+      "file_name": "firmware/VG2-1.0.0-15.10.25.bin",
+      "url": "https://raw.githubusercontent.com/indimate-ug/indicator-reminder-firmware/main/firmware/VG2-1.0.0-15.10.25.bin",
+      "description": "Latest Indicator Reminder firmware."
+    }
+  ]
+}
