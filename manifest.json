@@ -8,6 +8,7 @@
     {
       "model": "VIR",
       "firmware_code": "VIR-2.1.5-30.07.26",
+      "build_rank": 100,
       "file_name": "VIR-2.1.5-30.07.26.bin",
       "url": "https://raw.githubusercontent.com/indimate-ug/indicator-reminder-firmware/main/VIR-2.1.5-30.07.26.bin",
       "size_bytes": 1630480,
