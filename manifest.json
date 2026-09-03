@@ -1,10 +1,20 @@
 {
   "schema_version": 1,
   "latest_by_model": {
-    "VIR": "VIR-2.1.5-30.07.26",
-    "VG2": "VIR-2.1.5-30.07.26"
+    "VIR": "VIR-2.1.6-03.09.26",
+    "VG2": "VIR-2.1.6-03.09.26"
   },
   "releases": [
+    {
+      "model": "VIR",
+      "firmware_code": "VIR-2.1.6-03.09.26",
+      "build_rank": 101,
+      "file_name": "VIR-2.1.6-03.09.26.bin",
+      "url": "https://raw.githubusercontent.com/indimate-ug/indicator-reminder-firmware/main/VIR-2.1.6-03.09.26.bin",
+      "size_bytes": 1630480,
+      "sha256": "2e667ae0ea7c54e2a0d9bb739e2a3ada7dc369baafb3802d62727d75daf872b4",
+      "description": "Latest Indicator Reminder firmware."
+    },
     {
       "model": "VIR",
       "firmware_code": "VIR-2.1.5-30.07.26",
